@@ -7,7 +7,7 @@
          
     
 <h3 align='center'>
-    Tenho expêriencia em...
+    I only know about these
 
    
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
