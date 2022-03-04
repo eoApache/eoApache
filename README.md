@@ -1,11 +1,9 @@
 <h1 align="center">
     <a href="https://github.com/eoApache/">
-        <img src='https://imagepng.org/wp-content/uploads/2017/08/minecraft-icone-icon.png'/>  </a>
-</h1>
 
+</h1> 
 <p align="center">Apenas Depressão</p> 
-         
-    
+      
 <h3 align='center'>
     I only know about these
 
