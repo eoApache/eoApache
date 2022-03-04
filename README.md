@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/eoApache/">
-        <img src='https://cdn.discordapp.com/attachments/831565695551799316/850791996880715786/1556-blurple-rules31.png'/>  </a>
+        <img src='https://imagepng.org/wp-content/uploads/2017/08/minecraft-icone-icon.png'/>  </a>
 </h1>
 
 <p align="center">Apenas Depressão</p> 
