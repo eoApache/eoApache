@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/Mand3loriano/">
+    <a href="https://github.com/eoApache/">
         <img src='https://cdn.discordapp.com/attachments/831565695551799316/850791996880715786/1556-blurple-rules31.png'/>  </a>
 </h1>
 
